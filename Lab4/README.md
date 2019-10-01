@@ -1,5 +1,6 @@
 CS-546 Lab 4
 Animal Farm
+
 For this lab, we are going to make a few parts of the database for a social media website for animals. You will create a the first of these data modules, the module to handle animal listings.
 
 Seperating concerns into different modules:
